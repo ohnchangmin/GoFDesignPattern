@@ -4,7 +4,7 @@ public class Settings {
 	
 	private static Settings instance;
 	
-	/*new¸¦ »ç¿ëÇÏÁö ¸øÇÏµµ·Ï privateÇÑ »ı¼ºÀÚ¸¦ ¸¸µé±â*/
+	/*newë¥¼ ì‚¬ìš©í•˜ì§€ ëª»í•˜ë„ë¡ privateí•œ ìƒì„±ìë¥¼ ë§Œë“¤ê¸°*/
 	private Settings() {}
 	
 	public static Settings getInstance() {
